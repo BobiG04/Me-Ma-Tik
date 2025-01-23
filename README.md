@@ -1,4 +1,4 @@
-![Me-Ma-Tik Logo] (Me-Ma-Tik/Make Me Laugh/Assets/Textures/Me-Ma-TikLogo.png)
+![MeMaTikLogo](https://github.com/BobiG04/Me-Ma-Tik/blob/main/Make%20me%20laugh/Assets/Textures/Me-Ma-TikLogo.png)
 
 *Game created in Gabrovo Game Jam 2024.*
 
