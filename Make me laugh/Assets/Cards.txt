@@ -1,0 +1,123 @@
+1.Babushka		RARE
+desc-Kogato kajesh na baba si che ne si gladen
+effect-heal +1/for two turns
+
+2.Tanos Minchev		Common
+desc-3,2,1 shte te shtrakam
+effect- 1 damage, 2 hp
+
+3.Don Pooh 		LEGENDARY
+desc-distinguished gentlemen
+effect-attack 1, hp 3
+
+4.Bojinkata		RARE
+desc-Vliza v prazna staq i vika tuka ima neshto
+affect-attack 2, hp 1
+
+5.Paolo Zobelio		LEGENDARY
+desc- Preparata dava resultata
+effect- heal +3
+
+6.Gabrovska Batka	Common
+desc-Na mama dropcheto
+effect- attack 2, hp 2
+
+7.The anciant Weapon	LEGENDARY
+desc-Indestructible
+affect- attack 4, hp 5 
+
+8.Nacepenqk		RARE
+desc-Nabluskan sus steroidi
+effect- 2 attack, support
+
+9.Extinct Dino		Common
+desc- Nabluskan sus asteroidi
+effect-attack 0, hp 2
+
+10.Wild Bear/Tanky Bear	RARE
+desc-Tanks every card
+affect- Attack 3, hp 5
+
+11.Blyat Man		Common
+desc-Throws bricks at people, when he is in a good mood
+affect-attack 3, hp 1
+
+12.Bombastic		RARE
+desc-Screaming in public places and throws his bag
+affect-Attack 4, Hp 4
+
+13.Bulgarian Emo	Common
+desc-Depressed all the time and try to kill him self
+affect-attack 1, hp 1
+
+14.Matmatik		Common
+desc-Edvam zavurshva po matematika i obvinqva gospojata
+affect-attack 1, hp 2
+
+15.Jorjano		Common
+desc-Vika te na kupon do sutrinta
+affect-heal 1
+
+16.The Fish King Uba	Common
+desc-Mnogo shokariteten, vsicki go haresvat
+affect-attack 2, hp 3
+
+17.Bulgarian Wolverine	Common
+desc-Pazi skarata da ne ugasne
+affect-attack 2, hp 2
+
+18.Chad Giga		Common
+desc-He's a Giga Chad in reverse
+affect- attack 2, hp 2
+
+19.Velikata Osmica	RARE
+desc-Furst haf very gut. Second haf - me no liek.
+affect-attack 3, hp 1
+
+20.Rage			RARE
+desc-Destroys everything in it's way
+affect-attack 4, hp 2
+
+21.John Beana		Common
+desc-Everybody can see him
+affect- attack 0, hp 2
+
+22.Doja Cat		Common
+desc-She's not a cat
+affect- attack 1, hp 2
+
+23.Leonardo Di Vinci	Common
+desc- Knows every move before it's taken
+affect -heal 2
+
+24.Leonardo Disapointer	RARE
+desc-He disapoints in his way
+affect-attack 2, hp 3
+
+25.The thinker		RARE
+desc-Don't read just play it
+affect - attack 3, hp 1
+
+26.Nacepin s Bahur	RARE
+desc- Boost your mental stability
+affect- heal 2
+
+27.OilyMan (New Name?)	Common
+desc-Oil is Oil
+affect- attack 2, hp 1 
+
+28.Emotional Billy	Common
+desc- Emotional Damage
+affect- attack 2, hp 1
+
+29.The Rock		Common
+desc-Bombastic side eye
+affect-heal 1
+
+30.Thif			Common
+desc-Steals your heart
+affect- attack 2, hp 3
+
+31.Dobby		ULTRA MILLION BOMBASTIC LEGENDARY RARE
+desc-Ne sum gei ama 20lv sa si 20lv
+affect-attack 10 hp 15
